@@ -23,6 +23,15 @@ Embodied AI is a crucial frontier in robotics, capable of planning and executing
 ## 🎁 Major Features 
 <img width="800" alt="image" src="https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch/blob/main/assest/main_features_embodiedgpt.png">
 
+## Demos
+### Demos in Franka Kitchen
+
+|Open the cabinet|Turn the light on|Open the microwave oven|Slide the door open|
+|----------------|----------------|----------------|----------------|
+| ![GIF1](./assest/cabinet_3.gif) | ![GIF2](./assest/light_1.gif) | ![GIF3](./assest/mic_1.gif) | ![GIF4](./assest/door_1.gif) |
+
+### Demos in Meta-World
+
 ## 🎫 License
 
 This project is released under the [Apache 2.0 license](LICENSE). 
