@@ -32,6 +32,10 @@ Embodied AI is a crucial frontier in robotics, capable of planning and executing
 
 ### Demos in Meta-World
 
+|Assemble task|Place the bin|Hammer the nail |Open the drawer|
+|----------------|----------------|----------------|----------------|
+| ![GIF1](./assest/assemb_1.gif) | ![GIF2](./assest/bin_1.gif) | ![GIF3](./assest/hammer_4.gif) | ![GIF4](./assest/drawer_1.gif) |
+
 ## 🎫 License
 
 This project is released under the [Apache 2.0 license](LICENSE). 
